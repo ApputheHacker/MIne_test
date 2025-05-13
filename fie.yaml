@@ -1,0 +1,15 @@
+
+---
+
+### 📽️ Real-Time Pull Request Example (Steps for Your PPT):
+
+You can show these steps with screenshots or code:
+
+1. **Fork the original repository.**
+   - Click **"Fork"** on GitHub.
+   - This creates a copy under your account.
+
+2. **Clone the forked repo locally:**
+   ```bash
+   git clone https://github.com/your-username/original-repo.git
+   cd original-repo
