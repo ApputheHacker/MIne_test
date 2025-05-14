@@ -19,3 +19,6 @@ This helps contributors and users understand what the project does quickly.
 - User Authentication
 - Real-time Chat
 - Responsive Design
+
+This is a new feature added by Rithuik Prakash 🚀
+
